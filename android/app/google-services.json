@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "140947700315",
+    "firebase_url": "https://tips-c6d10.firebaseio.com",
+    "project_id": "tips-c6d10",
+    "storage_bucket": "tips-c6d10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140947700315:android:d247111b1a580516",
+        "android_client_info": {
+          "package_name": "net.mypinky.banko_mac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140947700315-fn5jpkr7ot3pat9itp81bdsq4an1kv93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw0xweYVU-ROF7lo4S2eFk1-a7ehbd0NQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140947700315-fn5jpkr7ot3pat9itp81bdsq4an1kv93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
